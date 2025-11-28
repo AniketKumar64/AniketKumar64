@@ -1,8 +1,74 @@
-# 💫 About Me:
-🎓 Pursuing B.Tech in Computer Science and Design (2023–2027) at Galgotias College of Engineering and Technology<br><br>💻 Full-stack Developer (MERN Stack) – MongoDB | Express.js | React.js | Node.js<br><br>🛍️ Worked on large-scale e-commerce platforms and scalable web apps<br><br>📂 Building Code Snippet Vault with AI Search (GitHub login, Markdown editor, AI embeddings search, CLI integration)<br><br>🎨 Passionate about Frontend & UI/UX – React, Next.js, Tailwind CSS v4, shadcn/ui<br><br>🎞️ Love crafting animations with GSAP & Framer Motion<br><br>🛠️ Skilled in REST APIs, MongoDB, Git/GitHub, Vercel deployments<br><br>📚 Strong in Data Structures & Algorithms (DSA) with Java<br><br>🏆 Smart India Hackathon (SIH) participant – solving real-world problems<br><br>📖 Exploring Operating Systems concepts (memory management, paging, segmentation, demand paging)<br><br>🚀 Interested in AI + Web development integration & SaaS platforms<br><br>🌱 Always learning, problem-solving, and experimenting with new technologies
+<h2 align="left">  <em>About  me </em></h2>
+
+<!-- <img src="" width="250" align="right" style="margin-left: 20px;" />  -->
+<br/>
+<p>
+  Hello there! <em><b>I'm Aniket Kumar </b></em>, a Software Engineering student. I enjoy learning new technologies and improving my problem-solving skills through C++ DSA. Currently, I'm building full-stack applications using the <b>MERN stack</b>, focusing on <b>React</b>, <b>Next.js</b>, <b>MongoDB</b>, <b>Express.js</b>, and <b>Node.js</b>. I also like experimenting with frontend designs, clean APIs, and practical projects that help me grow as a developer.
+</p>
 
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+<br/>
+<h2 align="left"> <em> Technologies </em> </h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<br/>
+
+
+
+
+
+
+
+
+
+<br/>
+<h2 align="left">
+ <em> <b> Connect with Me</b></em>
+</h2>
+
+<p align="left" >
+   <a href="https://Aniketkumar.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/AniketKumar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com//" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com//" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+ 
+</p>
+
+
+
+
+
+<br/>
+
+<h2 align="left"">  <em> Statistics </em> </h2>
+
+<div align = "left"> 
+
+![AniketKumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AniketKumar64&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=AniketKumar64&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AniketKumar64&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+
+</div>
