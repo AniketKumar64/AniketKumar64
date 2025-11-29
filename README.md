@@ -45,7 +45,7 @@
    <a href="https://Aniketkumar.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/AniketKumar" target="_blank">
+  <a href="https://www.linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com//" target="_blank">
