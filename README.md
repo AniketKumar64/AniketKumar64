@@ -1,74 +1,140 @@
-<h2 align="left">  <em>About  me </em></h2>
+<h1 align="center" ">ANIKET KUMAR </h1>
 
-<!-- <img src="" width="250" align="right" style="margin-left: 20px;" />  -->
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;C%2B%2B+DSA+Enthusiast;Lifelong+Learner" />
+</p> -->
+
+<p align="center"><b>💻 Full-Stack Web Developer | MERN Stack Engineer | C++ & DSA Problem Solver</b></p>
+
+<p/>
+
 <br/>
-<p>
-  Hello there! <em><b>I'm Aniket Kumar </b></em>, a Software Engineering student. I enjoy learning new technologies and improving my problem-solving skills through C++ DSA. Currently, I'm building full-stack applications using the <b>MERN stack</b>, focusing on <b>React</b>, <b>Next.js</b>, <b>MongoDB</b>, <b>Express.js</b>, and <b>Node.js</b>. I also like experimenting with frontend designs, clean APIs, and practical projects that help me grow as a developer.
-</p>
 
-
+<!-- ABOUT -->
+<h2 align="left"><em> About Me</em></h2>
 <br/>
-<h2 align="left"> <em> Technologies </em> </h2>
-
 <p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  Hi! I'm <b>Aniket Kumar</b>, a passionate Software Engineering student who loves building scalable,
+  high-performance web applications. I enjoy solving complex problems with <b>C++ & DSA</b> and
+  developing responsive, modern UI using <b>React</b>, <b>Next.js</b>, and <b>Node.js</b>.
+  I focus on writing clean code, building REST APIs, and learning system design.
+</p>
+
+<!-- CURRENT FOCUS -->
+<h2 align="left"><em>Current Focus</em></h2>
+<ul>
+  <li>Mastering Data Structures & Algorithms (C++)</li>
+  <li>Building real-world MERN stack applications</li>
+  <li>Learning System Design & Backend Optimization</li>
+</ul>
+
+
+<br/>
+
+<!-- TECHNOLOGIES -->
+<h2 align="center">🛠 Tech Stack & Skills</h2>
+<br/>
+<!-- Row 1: Languages -->
+<p align="center">
+  <span style="display:inline-block; margin:10px;">
+    <img src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  </span>
+  <span style="display:inline-block; margin:10px;">
+    <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white"/>
+  </span>
+  <span style="display:inline-block; margin:10px;">
+    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"/>
+  </span>
+  <span style="display:inline-block; margin:10px;">
+    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  </span>
+
+  <span style="display:inline-block; margin:10px;">
+    <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  </span>
+  <span style="display:inline-block; margin:10px;">
+    <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  </span>
+  <span style="display:inline-block; margin:10px;">
+    <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  </span>
+  <span style="display:inline-block; margin:10px;">
+    <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  </span>
+</p>
+
+<!-- Row 3: Backend & Database -->
+<p align="center">
+  <span style="display:inline-block; margin:10px;">
+    <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+  </span>
+  <span style="display:inline-block; margin:10px;">
+    <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white"/>
+  </span>
+  <span style="display:inline-block; margin:10px;">
+    <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+  </span>
+  <span style="display:inline-block; margin:10px;">
+    <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  </span>
+
+  <span style="display:inline-block; margin:10px;">
+    <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032"/>
+  </span>
+  <span style="display:inline-block; margin:10px;">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </span>
+
+  <span style="display:inline-block; margin:10px;">
+    <img src="https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+  </span>
+</p>
+
+
+
+
+
+<!-- PROJECTS PREVIEW -->
+<!-- <h2 align="left"><em>📌 Featured Projects</em></h2>
+
+<ul>
+  <li><b>E-commerce Platform</b> – Scalable MERN stack application</li>
+  <li><b>Portfolio Website</b> – Interactive UI built with React & animations</li>
+  <li><b>Code Snippet Vault</b> – AI-powered snippet manager (semantic search)</li>
+</ul> -->
+
+<!-- <hr/> -->
+
+<!-- CONNECT -->
+
+<br/>
+<h2 align="center"><em> Connect With Me</em></h2>
+<br/>
+<p align="center">
+  <a href="mailto:aniketkumar15077@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aniketkumar64"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/aniketkumar64"><img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://aniketkumar.dev"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
+
+
+
+<br/>
+<!-- GITHUB STATS -->
+<h2 align="center"><em>GitHub Stats</em></h2>
+<br/>
+<p align="center">
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AniketKumar64&theme=dark&background=000000&card_width=401"/>
 </p>
 
 <br/>
 
 
-
-
-
-
-
-
-
+<h2 align="center">🔥 Coding Streaks & Progress</h2>
 <br/>
-<h2 align="left">
- <em> <b> Connect with Me</b></em>
-</h2>
 
-<p align="left" >
-   <a href="https://Aniketkumar.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com//" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com//" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
- 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AniketKumar64&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true" />
 </p>
 
-
-
-
-
-<br/>
-
-<h2 align="left"">  <em> Statistics </em> </h2>
-
-<div align = "left"> 
-
-![AniketKumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AniketKumar64&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=AniketKumar64&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AniketKumar64&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
-
-</div>
