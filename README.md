@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;C%2B%2B+DSA+Enthusiast;Lifelong+Learner" />
 </p> -->
 
-<p align="center"><b>💻 Full-Stack Web Developer | MERN Stack Engineer | C++ & DSA Problem Solver</b></p>
+<h3 align="center"><b>💻 Full-Stack Web Developer | MERN Stack Engineer | C++ & DSA Problem Solver</b></h3>
 
 <p/>
 
@@ -131,10 +131,10 @@
 <br/>
 
 
-<h2 align="center">🔥 Coding Streaks & Progress</h2>
-<br/>
+<!-- <h2 align="center">🔥 Coding Streaks & Progress</h2>
+<br/> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AniketKumar64&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true" />
-</p>
+</p> -->
 
