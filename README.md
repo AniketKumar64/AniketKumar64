@@ -1,4 +1,4 @@
-<h1 align="center" ">ANIKET KUMAR </h1>
+<!-- <h1 align="center" ">ANIKET KUMAR </h1> -->
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;C%2B%2B+DSA+Enthusiast;Lifelong+Learner" />
