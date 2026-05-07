@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="heroimg2.jpeg" alt="System Architecture Header" width="100%" />
+<img src="heroimg2.png" alt="System Architecture Header" width="100%" />
 
 <br/>
 <br/>
